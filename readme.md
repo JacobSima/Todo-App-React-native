@@ -27,7 +27,7 @@ Emulator using Android
 ## Application
 > Home page
 
-![](img/React-Native-1.jpg)
+![React-Native-1](https://user-images.githubusercontent.com/33326635/79270409-6739df80-7e9e-11ea-807f-6b4b51f72352.JPG)
 
 > Home page with Todo listed
 
